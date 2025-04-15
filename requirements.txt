@@ -1,7 +1,2 @@
-FastAPI
-uvicorn
-requests
-colorama
-selenium
-python-telegram-bot
+tor
 stem
