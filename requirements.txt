@@ -1,3 +1,7 @@
-colorama
+FastAPI
+uvicorn
 requests
-flask
+colorama
+selenium
+python-telegram-bot
+stem
