@@ -1,0 +1,9 @@
+{
+    "GitHub": "https://github.com/{}",
+    "Reddit": "https://www.reddit.com/user/{}",
+    "Twitter": "https://twitter.com/{}",
+    "Instagram": "https://www.instagram.com/{}",
+    "Medium": "https://medium.com/@{}",
+    "Pinterest": "https://www.pinterest.com/{}/",
+    "Dev.to": "https://dev.to/{}"
+}
